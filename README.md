@@ -207,7 +207,7 @@ if __name__ == '__main__':
         project= r"D:\Assessment_VisDrone\yolo_results",
     )
 ```
-
+A terminal.txt is given to show all details during the model training runtime
 ---
 
 # Detection Pipeline
@@ -329,6 +329,10 @@ Possible future improvements include:
 pip install ultralytics
 pip install opencv-python
 pip install deep-sort-realtime
+```
+or 
+```bash
+pip install -r requirements.txt
 ```
 
 ## Run Detection
