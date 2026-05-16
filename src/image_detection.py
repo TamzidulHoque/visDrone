@@ -2,8 +2,8 @@ from ultralytics import YOLO
 import cv2
 
 model = YOLO("D:\\Assessment_VisDrone\\yolo_results\\train-3\\weights\\best.pt")
-
-img = cv2.imread(r"E:\A&P\DJI\Basketball match\DJI_0046.JPG")
+img_path = r"E:\A&P\DJI\Basketball match\DJI_0046.JPG"
+img = cv2.imread(img_path)
 
 results = model(img)[0]
 

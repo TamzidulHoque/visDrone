@@ -17,7 +17,6 @@ __pycache__/
 *.pyc
 
 # Model files (these can be large)
-*.pt
 *.pth
 *.bin
 
