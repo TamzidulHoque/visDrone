@@ -1,0 +1,30 @@
+﻿# Virtual environment
+venv/
+env/
+
+# Dataset (important - this is huge!)
+VisDrone_Dataset/
+datasets/
+data/
+
+# Output samples
+output_samples/
+outputs/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (these can be large)
+*.pt
+*.pth
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db

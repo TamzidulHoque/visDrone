@@ -1,0 +1,684 @@
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 74% ━━━━━━━━╸─── 220.2/296.8MB 1.3MB/s 3:07<58
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 74% ━━━━━━━━╸─── 220.5/296.8MB 1.3MB/s 3:07<58
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 74% ━━━━━━━━╸─── 220.8/296.8MB 1.5MB/s 3:08<50
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 74% ━━━━━━━━╸─── 221.1/296.8MB 1.0MB/s 3:08<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━╸─── 221.4/296.8MB 1.4MB/s 3:08<52
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━╸─── 221.7/296.8MB 1.3MB/s 3:08<56
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━╸─── 222.0/296.8MB 1.1MB/s 3:09<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━╸─── 222.3/296.8MB 1.1MB/s 3:09<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━╸─── 222.6/296.8MB 1.6MB/s 3:09<46
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━━─── 222.9/296.8MB 1.2MB/s 3:09<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━━─── 223.2/296.8MB 870.0KB/s 3:10<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━━─── 223.5/296.8MB 1.7MB/s 3:10<44
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━━─── 223.8/296.8MB 1.2MB/s 3:10<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 75% ━━━━━━━━━─── 224.1/296.8MB 1.2MB/s 3:10<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 224.4/296.8MB 1.6MB/s 3:11<46
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 224.7/296.8MB 1.6MB/s 3:11<46
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 225.0/296.8MB 1.4MB/s 3:11<51
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 225.3/296.8MB 1.7MB/s 3:11<41
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 225.6/296.8MB 881.3KB/s 3:11<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 225.9/296.8MB 1.0MB/s 3:12<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 226.2/296.8MB 841.1KB/s 3:12<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 226.5/296.8MB 849.1KB/s 3:13<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 226.8/296.8MB 1.1MB/s 3:13<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 76% ━━━━━━━━━─── 227.1/296.8MB 1.1MB/s 3:13<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 227.4/296.8MB 1.4MB/s 3:13<49
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 227.7/296.8MB 1.4MB/s 3:13<48
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 228.0/296.8MB 1.7MB/s 3:14<41
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 228.3/296.8MB 1.3MB/s 3:14<52
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 228.6/296.8MB 1.3MB/s 3:14<53
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 228.9/296.8MB 1016.1KB/s 3:14
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 229.2/296.8MB 1.1MB/s 3:15<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 229.5/296.8MB 1.4MB/s 3:15<49
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 229.7/296.8MB 1.0MB/s 3:15<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 77% ━━━━━━━━━─── 230.0/296.8MB 1.2MB/s 3:15<55
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 230.3/296.8MB 1.2MB/s 3:16<53
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 230.6/296.8MB 1.8MB/s 3:16<37
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 230.9/296.8MB 810.5KB/s 3:16<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 231.2/296.8MB 1.3MB/s 3:16<51
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 231.5/296.8MB 1.4MB/s 3:17<47
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 231.8/296.8MB 1.4MB/s 3:17<45
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 232.1/296.8MB 1.2MB/s 3:17<54
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 232.4/296.8MB 1.4MB/s 3:17<47
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 232.7/296.8MB 1.3MB/s 3:18<50
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 78% ━━━━━━━━━─── 233.0/296.8MB 1.1MB/s 3:18<57
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 233.3/296.8MB 1.2MB/s 3:18<51
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 233.6/296.8MB 1.2MB/s 3:18<52
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 233.9/296.8MB 1.2MB/s 3:19<53
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 234.2/296.8MB 1.0MB/s 3:19<1:
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 234.5/296.8MB 1012.4KB/s 3:19
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━─── 234.8/296.8MB 1.4MB/s 3:19<43
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━╸── 235.1/296.8MB 1.5MB/s 3:20<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━╸── 235.4/296.8MB 1.1MB/s 3:20<54
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━╸── 235.7/296.8MB 1.3MB/s 3:20<48
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 79% ━━━━━━━━━╸── 236.0/296.8MB 1.4MB/s 3:20<44
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 236.3/296.8MB 1.2MB/s 3:21<51
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 236.6/296.8MB 1.4MB/s 3:21<44
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 236.9/296.8MB 1.5MB/s 3:21<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 237.2/296.8MB 1.3MB/s 3:21<46
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 237.5/296.8MB 1.1MB/s 3:21<52
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 237.8/296.8MB 1.4MB/s 3:22<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 238.1/296.8MB 804.9KB/s 3:22<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 238.4/296.8MB 751.6KB/s 3:23<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 238.7/296.8MB 1.2MB/s 3:23<48
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 80% ━━━━━━━━━╸── 238.9/296.8MB 1.7MB/s 3:23<33
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 239.2/296.8MB 1.4MB/s 3:23<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 239.5/296.8MB 1.6MB/s 3:23<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 239.8/296.8MB 1.4MB/s 3:24<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 240.1/296.8MB 1.3MB/s 3:24<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 240.4/296.8MB 1.6MB/s 3:24<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 240.7/296.8MB 1.5MB/s 3:24<36
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 241.0/296.8MB 1.5MB/s 3:24<38
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 241.3/296.8MB 1.7MB/s 3:25<32
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 241.6/296.8MB 1.4MB/s 3:25<39
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 81% ━━━━━━━━━╸── 241.9/296.8MB 1.6MB/s 3:25<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 242.2/296.8MB 1.9MB/s 3:25<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 242.5/296.8MB 1.3MB/s 3:25<41
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 242.8/296.8MB 1.6MB/s 3:26<32
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 243.1/296.8MB 1.4MB/s 3:26<38
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 243.4/296.8MB 1.9MB/s 3:26<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 243.7/296.8MB 1.5MB/s 3:26<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 244.0/296.8MB 1.6MB/s 3:26<32
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 244.3/296.8MB 1014.1KB/s 3:27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 82% ━━━━━━━━━╸── 244.9/296.8MB 2.9MB/s 3:27<18
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 245.2/296.8MB 1005.4KB/s 3:27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 245.5/296.8MB 2.4MB/s 3:27<21
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 245.8/296.8MB 1.5MB/s 3:27<33
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 246.1/296.8MB 1.8MB/s 3:28<29
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 246.4/296.8MB 1.5MB/s 3:28<33
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 246.7/296.8MB 804.8KB/s 3:28<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 247.0/296.8MB 1.2MB/s 3:28<41
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━╸── 247.3/296.8MB 1.4MB/s 3:29<36
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━━── 247.6/296.8MB 1.4MB/s 3:29<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 83% ━━━━━━━━━━── 247.9/296.8MB 1.0MB/s 3:29<48
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 248.2/296.8MB 1.4MB/s 3:29<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 248.4/296.8MB 1.4MB/s 3:30<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 248.7/296.8MB 1.5MB/s 3:30<31
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 249.0/296.8MB 1.6MB/s 3:30<30
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 249.3/296.8MB 1.2MB/s 3:30<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 249.6/296.8MB 1.1MB/s 3:30<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 249.9/296.8MB 1.1MB/s 3:31<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 250.2/296.8MB 1.2MB/s 3:31<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 250.5/296.8MB 1.5MB/s 3:31<31
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 84% ━━━━━━━━━━── 250.8/296.8MB 1.0MB/s 3:31<44
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 251.1/296.8MB 1.4MB/s 3:32<33
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 251.4/296.8MB 1.1MB/s 3:32<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 251.7/296.8MB 1.1MB/s 3:32<40
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 252.0/296.8MB 1.2MB/s 3:32<37
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 252.3/296.8MB 834.8KB/s 3:33<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 252.6/296.8MB 1.0MB/s 3:33<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 252.9/296.8MB 1.0MB/s 3:33<42
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 253.2/296.8MB 1.2MB/s 3:34<37
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 253.5/296.8MB 1.5MB/s 3:34<29
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 85% ━━━━━━━━━━── 253.8/296.8MB 876.4KB/s 3:34<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 254.1/296.8MB 1.0MB/s 3:34<41
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 254.4/296.8MB 1.2MB/s 3:35<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 254.7/296.8MB 1.5MB/s 3:35<27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 255.0/296.8MB 1.5MB/s 3:35<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 255.3/296.8MB 1.3MB/s 3:35<31
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 255.6/296.8MB 1.2MB/s 3:35<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 255.9/296.8MB 1.6MB/s 3:36<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 256.2/296.8MB 1.5MB/s 3:36<27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 256.5/296.8MB 1.3MB/s 3:36<30
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 86% ━━━━━━━━━━── 256.8/296.8MB 1.7MB/s 3:36<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 257.1/296.8MB 1.2MB/s 3:37<32
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 257.4/296.8MB 1.6MB/s 3:37<24
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 257.7/296.8MB 1.4MB/s 3:37<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 257.9/296.8MB 1.6MB/s 3:37<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 258.2/296.8MB 1.6MB/s 3:37<24
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 258.5/296.8MB 1.1MB/s 3:38<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 258.8/296.8MB 1.1MB/s 3:38<35
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 259.1/296.8MB 1.1MB/s 3:38<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 259.4/296.8MB 1.3MB/s 3:38<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 87% ━━━━━━━━━━── 259.7/296.8MB 1.2MB/s 3:39<32
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 260.0/296.8MB 1.1MB/s 3:39<34
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 260.3/296.8MB 1.2MB/s 3:39<31
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 260.6/296.8MB 1.3MB/s 3:39<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 260.9/296.8MB 1.4MB/s 3:40<25
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 261.2/296.8MB 1.4MB/s 3:40<25
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 261.5/296.8MB 1.3MB/s 3:40<27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 261.8/296.8MB 1.6MB/s 3:40<21
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 262.1/296.8MB 1.7MB/s 3:40<20
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 262.4/296.8MB 1.4MB/s 3:41<24
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 88% ━━━━━━━━━━╸─ 262.7/296.8MB 1.3MB/s 3:41<25
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 263.0/296.8MB 1.5MB/s 3:41<22
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 263.3/296.8MB 1.3MB/s 3:41<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 263.6/296.8MB 1.4MB/s 3:41<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 263.9/296.8MB 1.2MB/s 3:42<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 264.2/296.8MB 1.1MB/s 3:42<30
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 264.5/296.8MB 1.1MB/s 3:42<29
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 264.8/296.8MB 893.8KB/s 3:43<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 265.1/296.8MB 1.3MB/s 3:43<24
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 265.4/296.8MB 745.4KB/s 3:44<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 89% ━━━━━━━━━━╸─ 265.7/296.8MB 1.1MB/s 3:44<27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 266.0/296.8MB 786.7KB/s 3:44<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 266.3/296.8MB 1021.3KB/s 3:44
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 266.6/296.8MB 1.2MB/s 3:45<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 266.9/296.8MB 1.1MB/s 3:45<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 267.1/296.8MB 1.0MB/s 3:45<28
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 267.4/296.8MB 1.1MB/s 3:46<26
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 267.7/296.8MB 1.1MB/s 3:46<27
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 268.0/296.8MB 804.7KB/s 3:46<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 268.3/296.8MB 1.2MB/s 3:46<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 90% ━━━━━━━━━━╸─ 268.6/296.8MB 1.1MB/s 3:47<25
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 268.9/296.8MB 1.2MB/s 3:47<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 269.2/296.8MB 801.6KB/s 3:47<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 269.5/296.8MB 783.0KB/s 3:48<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 269.8/296.8MB 825.1KB/s 3:48<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 270.1/296.8MB 1.3MB/s 3:48<20
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 270.4/296.8MB 808.6KB/s 3:49<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 270.7/296.8MB 1.0MB/s 3:49<25
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 271.0/296.8MB 1.2MB/s 3:49<21
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 271.3/296.8MB 1.3MB/s 3:49<19
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 91% ━━━━━━━━━━╸─ 271.6/296.8MB 745.5KB/s 3:50<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━╸─ 271.9/296.8MB 802.7KB/s 3:50<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 272.2/296.8MB 1.0MB/s 3:51<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 272.5/296.8MB 1.1MB/s 3:51<23
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 272.8/296.8MB 801.3KB/s 3:51<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 273.1/296.8MB 851.1KB/s 3:52<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 273.4/296.8MB 1.1MB/s 3:52<22
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 273.7/296.8MB 1002.8KB/s 3:52
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 274.0/296.8MB 1.2MB/s 3:52<19
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 274.3/296.8MB 998.9KB/s 3:53<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 92% ━━━━━━━━━━━─ 274.6/296.8MB 1.3MB/s 3:53<16
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 274.9/296.8MB 1.0MB/s 3:53<21
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 275.2/296.8MB 1.2MB/s 3:53<18
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 275.5/296.8MB 1.2MB/s 3:54<18
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 275.8/296.8MB 1.4MB/s 3:54<15
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 276.1/296.8MB 1.1MB/s 3:54<19
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 276.4/296.8MB 882.7KB/s 3:54<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 276.6/296.8MB 1.2MB/s 3:55<17
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 276.9/296.8MB 1.4MB/s 3:55<13
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 277.2/296.8MB 838.3KB/s 3:55<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 93% ━━━━━━━━━━━─ 277.5/296.8MB 1.1MB/s 3:56<18
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 277.8/296.8MB 1.1MB/s 3:56<17
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 278.1/296.8MB 1.2MB/s 3:56<15
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 278.4/296.8MB 1.1MB/s 3:56<16
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 278.7/296.8MB 1.1MB/s 3:57<16
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 279.0/296.8MB 1.1MB/s 3:57<16
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 279.3/296.8MB 1.2MB/s 3:57<14
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 279.6/296.8MB 1.3MB/s 3:57<13
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 279.9/296.8MB 1.3MB/s 3:58<13
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 280.2/296.8MB 1.4MB/s 3:58<12
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 94% ━━━━━━━━━━━─ 280.5/296.8MB 1.3MB/s 3:58<12
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 280.8/296.8MB 1.6MB/s 3:58<9.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 281.1/296.8MB 1.3MB/s 3:59<12
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 281.4/296.8MB 1.4MB/s 3:59<10
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 281.7/296.8MB 1.6MB/s 3:59<9.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 282.0/296.8MB 1.6MB/s 3:59<9.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 282.3/296.8MB 1.5MB/s 3:59<9.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 282.6/296.8MB 1.4MB/s 3:59<10
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 282.9/296.8MB 1.7MB/s 3:60<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 283.2/296.8MB 1.6MB/s 3:60<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 95% ━━━━━━━━━━━─ 283.5/296.8MB 1.6MB/s 4:00<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━─ 283.8/296.8MB 1.4MB/s 4:00<9.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━─ 284.1/296.8MB 1.6MB/s 4:00<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━─ 284.4/296.8MB 1.5MB/s 4:01<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 284.7/296.8MB 1.5MB/s 4:01<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 285.0/296.8MB 1.7MB/s 4:01<7.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 285.3/296.8MB 1.5MB/s 4:01<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 285.6/296.8MB 2.2MB/s 4:01<5.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 285.8/296.8MB 1.7MB/s 4:02<6.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 286.1/296.8MB 1.2MB/s 4:02<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 96% ━━━━━━━━━━━╸ 286.4/296.8MB 1.6MB/s 4:02<6.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 286.7/296.8MB 1.8MB/s 4:02<5.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 287.0/296.8MB 1.2MB/s 4:02<8.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 287.3/296.8MB 874.4KB/s 4:03<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 287.6/296.8MB 1.6MB/s 4:03<5.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 287.9/296.8MB 1.3MB/s 4:03<7.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 288.2/296.8MB 1.4MB/s 4:03<6.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 288.5/296.8MB 1.1MB/s 4:04<7.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 288.8/296.8MB 1.1MB/s 4:04<7.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 289.1/296.8MB 1.2MB/s 4:04<6.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 97% ━━━━━━━━━━━╸ 289.4/296.8MB 988.2KB/s 4:04<
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 289.7/296.8MB 1.3MB/s 4:05<5.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 290.0/296.8MB 1.7MB/s 4:05<4.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 290.3/296.8MB 1.5MB/s 4:05<4.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 290.6/296.8MB 1.5MB/s 4:05<4.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 290.9/296.8MB 1.5MB/s 4:05<4.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 291.2/296.8MB 1.8MB/s 4:06<3.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 291.5/296.8MB 1.6MB/s 4:06<3.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 291.8/296.8MB 1.5MB/s 4:06<3.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 292.1/296.8MB 1.2MB/s 4:06<3.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 98% ━━━━━━━━━━━╸ 292.4/296.8MB 1.6MB/s 4:06<2.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 292.7/296.8MB 1.9MB/s 4:07<2.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 293.0/296.8MB 1.5MB/s 4:07<2.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 293.3/296.8MB 1.3MB/s 4:07<2.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 293.6/296.8MB 1.5MB/s 4:07<2.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 293.9/296.8MB 1.5MB/s 4:07<1.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 294.2/296.8MB 1.9MB/s 4:08<1.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 294.5/296.8MB 1.3MB/s 4:08<1.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 294.8/296.8MB 1.6MB/s 4:08<1.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 295.1/296.8MB 1.4MB/s 4:08<1.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 99% ━━━━━━━━━━━╸ 295.3/296.8MB 1.6MB/s 4:08<0.
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━╸ 295.6/296.8MB 768.3KB/s 4:09
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━╸ 295.9/296.8MB 808.1KB/s 4:09
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━╸ 296.2/296.8MB 1.2MB/s 4:10<0
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━╸ 296.5/296.8MB 1.3MB/s 4:10<0
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━╸ 296.8/296.8MB 1.7MB/s 4:10<0
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-test-dev.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip': 100% ━━━━━━━━━━━━ 296.8MB 1.2MB/s 4:10
+Unzipping D:\datasets\VisDrone\VisDrone2019-DET-test-dev.zip to D:\datasets\VisDrone\VisDrone2019-DET-test-dev...: 100% ━━━━━━━━━━━━ 3223/3223 934.8files/s 3.4s
+Downloading https://ultralytics.com/assets/VisDrone2019-DET-train.zip to 'D:\datasets\VisDrone\VisDrone2019-DET-train.zip': 100% ━━━━━━━━━━━━ 1.4GB 2.1MB/s 11:48
+Unzipping D:\datasets\VisDrone\VisDrone2019-DET-train.zip to D:\datasets\VisDrone\VisDrone2019-DET-train...: 100% ━━━━━━━━━━━━ 12945/12945 1.1Kfiles/s 12.1s
+Converting train: ━━━━━━━━━━━━ 6471 1.2Kit/s 5.3s
+Converting val: ━━━━━━━━━━━━ 548 967.9it/s 0.5s
+Converting test: ━━━━━━━━━━━━ 1610 1.3Kit/s 1.3s
+Dataset download success  (732.1s), saved to D:\datasets
+
+Overriding model.yaml nc=80 with nc=10
+
+                   from  n    params  module                                       arguments                     
+  0                  -1  1       464  ultralytics.nn.modules.conv.Conv             [3, 16, 3, 2]                 
+  1                  -1  1      4672  ultralytics.nn.modules.conv.Conv             [16, 32, 3, 2]                
+  2                  -1  1      7360  ultralytics.nn.modules.block.C2f             [32, 32, 1, True]             
+  3                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                
+  4                  -1  2     49664  ultralytics.nn.modules.block.C2f             [64, 64, 2, True]             
+  5                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               
+  6                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           
+  7                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              
+  8                  -1  1    460288  ultralytics.nn.modules.block.C2f             [256, 256, 1, True]           
+  9                  -1  1    164608  ultralytics.nn.modules.block.SPPF            [256, 256, 5]                 
+ 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 12                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 
+ 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 15                  -1  1     37248  ultralytics.nn.modules.block.C2f             [192, 64, 1]                  
+ 16                  -1  1     36992  ultralytics.nn.modules.conv.Conv             [64, 64, 3, 2]                
+ 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 18                  -1  1    123648  ultralytics.nn.modules.block.C2f             [192, 128, 1]                 
+ 19                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              
+ 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 21                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 
+ 22        [15, 18, 21]  1    753262  ultralytics.nn.modules.head.Detect           [10, 16, None, [64, 128, 256]]
+Model summary: 130 layers, 3,012,798 parameters, 3,012,782 gradients, 8.2 GFLOPs
+
+Transferred 319/355 items from pretrained weights
+Freezing layer 'model.22.dfl.conv.weight'
+AMP: running Automatic Mixed Precision (AMP) checks...
+AMP: checks passed 
+train: Fast image access  (ping: 0.10.0 ms, read: 1275.4442.1 MB/s, size: 260.7 KB)
+train: Scanning D:\datasets\VisDrone\labels\train... 6471 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 6471/6471 1.8Kit/s 3.5s
+train: D:\datasets\VisDrone\images\train\0000137_02220_d_0000163.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\0000140_00118_d_0000002.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\9999945_00000_d_0000114.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\9999987_00000_d_0000049.jpg: 1 duplicate labels removed
+train: New cache created: D:\datasets\VisDrone\labels\train.cache
+val: Fast image access  (ping: 0.10.0 ms, read: 1100.3292.7 MB/s, size: 142.1 KB)
+val: Scanning D:\datasets\VisDrone\labels\val... 548 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 548/548 839.0it/s 0.7s
+val: New cache created: D:\datasets\VisDrone\labels\val.cache
+optimizer: 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically... 
+optimizer: AdamW(lr=0.000714, momentum=0.9) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)
+Plotting labels to D:\Assessment_VisDrone\yolo_results\train-2\labels.jpg... 
+Image sizes 640 train, 640 val
+Using 8 dataloader workers
+Logging results to D:\Assessment_VisDrone\yolo_results\train-2
+Starting training for 50 epochs...
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       1/50      4.08G      2.065      3.174      1.076        425        640: 36% ━━━━──────── 290/809 5.9it/s 59.5s<1:28
+Traceback (most recent call last):
+  File "d:\Assessment_VisDrone\src\train.py", line 6, in <module>
+    model.train(
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\engine\model.py", line 792, in train
+    self.trainer.train()
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\engine\trainer.py", line 246, in train
+    self._do_train()
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\engine\trainer.py", line 421, in _do_train
+    for i, batch in pbar:
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\utils\tqdm.py", line 350, in __iter__
+    for item in self.iterable:
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\data\build.py", line 76, in __iter__
+    yield next(self.iterator)
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\dataloader.py", line 708, in __next__
+    data = self._next_data()
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\dataloader.py", line 1480, in _next_data
+    return self._process_data(data)
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\dataloader.py", line 1505, in _process_data
+    data.reraise()
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\_utils.py", line 733, in reraise
+    raise exception
+cv2.error: Caught error in DataLoader worker process 2.
+Original Traceback (most recent call last):
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\_utils\worker.py", line 349, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\_utils\fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\torch\utils\data\_utils\fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\data\base.py", line 380, in __getitem__
+    return self.transforms(self.get_image_and_label(index))
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\data\base.py", line 393, in get_image_and_label
+    label["img"], label["ori_shape"], label["resized_shape"] = self.load_image(index)
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\data\base.py", line 235, in load_image
+    im = imread(f, flags=self.cv2_flag)  # BGR
+  File "D:\Assessment_VisDrone\venv\lib\site-packages\ultralytics\utils\patches.py", line 46, in imread
+    im = cv2.imdecode(file_bytes, flags)
+cv2.error: OpenCV(4.13.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 9000000 bytes in function 'cv::OutOfMemoryError'
+
+
+(venv) PS D:\Assessment_VisDrone> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& d:\Assessment_VisDrone\venv\Scripts\Activate.ps1)
+(venv) PS D:\Assessment_VisDrone> & d:/Assessment_VisDrone/venv/Scripts/python.exe d:/Assessment_VisDrone/src/train.py
+Ultralytics 8.4.51  Python-3.10.9 torch-2.6.0+cu124 CUDA:0 (NVIDIA GeForce RTX 3050 Laptop GPU, 4096MiB)
+engine\trainer: agnostic_nms=False, amp=True, angle=1.0, augment=False, auto_augment=randaugment, batch=8, bgr=0.0, box=7.5, cache=False, cfg=None, classes=None, close_mosaic=10, cls=0.5, cls_pw=0.0, compile=False, conf=None, copy_paste=0.0, copy_paste_mode=flip, cos_lr=False, cutmix=0.0, data=visdrone.yaml, degrees=0.0, deterministic=True, device=0, dfl=1.5, dnn=False, dropout=0.0, dynamic=False, embed=None, end2end=None, epochs=50, erasing=0.4, exist_ok=False, fliplr=0.5, flipud=0.0, format=torchscript, fraction=1.0, freeze=None, half=False, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, imgsz=640, int8=False, iou=0.7, keras=False, kobj=1.0, line_width=None, lr0=0.01, lrf=0.01, mask_ratio=4, max_det=300, mixup=0.0, mode=train, model=yolov8n.pt, momentum=0.937, mosaic=1.0, multi_scale=0.0, name=train-3, nbs=64, nms=False, opset=None, optimize=False, optimizer=auto, overlap_mask=True, patience=100, perspective=0.0, plots=True, pose=12.0, pretrained=True, profile=False, project=D:\Assessment_VisDrone\yolo_results, rect=False, resume=False, retina_masks=False, rle=1.0, save=True, save_conf=False, save_crop=False, save_dir=D:\Assessment_VisDrone\yolo_results\train-3, save_frames=False, save_json=False, save_period=-1, save_txt=False, scale=0.5, seed=0, shear=0.0, show=False, show_boxes=True, show_conf=True, show_labels=True, simplify=True, single_cls=False, source=None, split=val, stream_buffer=False, task=detect, time=None, tracker=botsort.yaml, translate=0.1, val=True, verbose=True, vid_stride=1, visualize=False, warmup_bias_lr=0.1, warmup_epochs=3.0, warmup_momentum=0.8, weight_decay=0.0005, workers=8, workspace=None
+Overriding model.yaml nc=80 with nc=10
+
+                   from  n    params  module                                       arguments                     
+  0                  -1  1       464  ultralytics.nn.modules.conv.Conv             [3, 16, 3, 2]                 
+  1                  -1  1      4672  ultralytics.nn.modules.conv.Conv             [16, 32, 3, 2]                
+  2                  -1  1      7360  ultralytics.nn.modules.block.C2f             [32, 32, 1, True]             
+  3                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                
+  4                  -1  2     49664  ultralytics.nn.modules.block.C2f             [64, 64, 2, True]             
+  5                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               
+  6                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           
+  7                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              
+  8                  -1  1    460288  ultralytics.nn.modules.block.C2f             [256, 256, 1, True]           
+  9                  -1  1    164608  ultralytics.nn.modules.block.SPPF            [256, 256, 5]                 
+ 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 12                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 
+ 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 15                  -1  1     37248  ultralytics.nn.modules.block.C2f             [192, 64, 1]                  
+ 16                  -1  1     36992  ultralytics.nn.modules.conv.Conv             [64, 64, 3, 2]                
+ 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 18                  -1  1    123648  ultralytics.nn.modules.block.C2f             [192, 128, 1]                 
+ 19                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              
+ 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 21                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 
+ 22        [15, 18, 21]  1    753262  ultralytics.nn.modules.head.Detect           [10, 16, None, [64, 128, 256]]
+Model summary: 130 layers, 3,012,798 parameters, 3,012,782 gradients, 8.2 GFLOPs
+
+Transferred 319/355 items from pretrained weights
+Freezing layer 'model.22.dfl.conv.weight'
+AMP: running Automatic Mixed Precision (AMP) checks...
+AMP: checks passed 
+train: Fast image access  (ping: 0.20.1 ms, read: 336.5118.9 MB/s, size: 260.7 KB)
+train: Scanning D:\datasets\VisDrone\labels\train.cache... 6471 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 6471/6471  0.0s
+train: D:\datasets\VisDrone\images\train\0000137_02220_d_0000163.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\0000140_00118_d_0000002.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\9999945_00000_d_0000114.jpg: 1 duplicate labels removed
+train: D:\datasets\VisDrone\images\train\9999987_00000_d_0000049.jpg: 1 duplicate labels removed
+val: Fast image access  (ping: 0.20.1 ms, read: 188.986.3 MB/s, size: 142.1 KB)
+val: Scanning D:\datasets\VisDrone\labels\val.cache... 548 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 548/548  0.0s
+optimizer: 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically... 
+optimizer: AdamW(lr=0.000714, momentum=0.9) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)
+Plotting labels to D:\Assessment_VisDrone\yolo_results\train-3\labels.jpg... 
+Image sizes 640 train, 640 val
+Using 8 dataloader workers
+Logging results to D:\Assessment_VisDrone\yolo_results\train-3
+Starting training for 50 epochs...
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       1/50      4.79G      1.967      2.311      1.027        895        640: 100% ━━━━━━━━━━━━ 809/809 5.3it/s 2:33
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.4it/s 6.4s
+                   all        548      38759      0.308      0.175      0.125     0.0667
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       2/50      5.51G      1.808      1.573     0.9802        599        640: 100% ━━━━━━━━━━━━ 809/809 5.0it/s 2:41
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.9it/s 6.0s
+                   all        548      38759      0.254      0.203      0.152     0.0814
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       3/50      4.67G      1.768      1.468       0.97        286        640: 100% ━━━━━━━━━━━━ 809/809 5.9it/s 2:18
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.6it/s 6.2s
+                   all        548      38759      0.282      0.242      0.183     0.0973
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       4/50      4.99G      1.742      1.416     0.9631        330        640: 100% ━━━━━━━━━━━━ 809/809 5.7it/s 2:22
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.8it/s 6.0s
+                   all        548      38759      0.298      0.229       0.17     0.0914
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       5/50      4.33G      1.722      1.374     0.9552        511        640: 100% ━━━━━━━━━━━━ 809/809 5.9it/s 2:17
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.6s
+                   all        548      38759      0.324      0.246      0.206      0.112
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       6/50      4.29G      1.722      1.346     0.9517        452        640: 100% ━━━━━━━━━━━━ 809/809 1.9it/s 7:02
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.318      0.258      0.205      0.111
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       7/50      3.68G      1.691      1.317     0.9474        381        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.1it/s 5.7s
+                   all        548      38759      0.332       0.27      0.226      0.123
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       8/50      3.68G       1.68      1.295     0.9436        436        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759      0.356      0.265      0.226      0.124
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+       9/50      3.73G       1.66      1.265     0.9414        678        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:11
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.0it/s 5.9s
+                   all        548      38759      0.362      0.273      0.235      0.127
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      10/50      3.75G      1.647      1.251     0.9371        340        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:14
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.6s
+                   all        548      38759      0.352      0.283      0.236      0.127
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      11/50      4.76G      1.647      1.233     0.9327        689        640: 100% ━━━━━━━━━━━━ 809/809 6.0it/s 2:15
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.0it/s 5.8s
+                   all        548      38759      0.356       0.28      0.234      0.129
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      12/50      4.04G      1.644      1.229     0.9331        377        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.348      0.287      0.239      0.132
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      13/50      2.73G      1.639      1.224     0.9324        696        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759       0.36      0.285       0.24      0.133
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      14/50      3.81G      1.616      1.203     0.9291        518        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.395      0.283       0.25      0.138
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      15/50      4.74G      1.625        1.2     0.9261        466        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:13
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.373      0.294      0.252      0.139
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      16/50      3.62G      1.611      1.186      0.927        961        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.384      0.293      0.259      0.142
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      17/50      4.38G       1.61      1.187     0.9243        557        640: 100% ━━━━━━━━━━━━ 809/809 2.9it/s 4:41
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.367      0.297      0.252      0.141
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      18/50      3.13G      1.597      1.166     0.9226        437        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:08
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759      0.378      0.293      0.257      0.143
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      19/50      3.43G      1.594      1.166     0.9237        448        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.6s
+                   all        548      38759      0.384      0.297      0.259      0.143
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      20/50      4.38G      1.587      1.155     0.9202        754        640: 100% ━━━━━━━━━━━━ 809/809 3.8it/s 3:32
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.383      0.306      0.268      0.147
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      21/50       3.6G      1.597      1.158     0.9213        642        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.391      0.307      0.269       0.15
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      22/50       3.4G      1.584      1.141     0.9185        524        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759      0.379      0.299      0.262      0.145
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      23/50      4.71G      1.571      1.135     0.9188        318        640: 100% ━━━━━━━━━━━━ 809/809 3.5it/s 3:51
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.389      0.303       0.27       0.15
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      24/50       3.6G      1.577      1.134     0.9176        627        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:08
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.6s
+                   all        548      38759      0.396      0.306      0.271      0.152
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      25/50      4.27G      1.557      1.117     0.9163        607        640: 100% ━━━━━━━━━━━━ 809/809 6.0it/s 2:14
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.395      0.307      0.276      0.153
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      26/50      4.35G      1.565      1.121     0.9145        561        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:13
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.395      0.311      0.273      0.153
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      27/50      3.97G       1.57      1.118     0.9127        507        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:12
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.8it/s 6.0s
+                   all        548      38759      0.406      0.307      0.275      0.154
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      28/50      2.99G      1.562      1.114     0.9121        657        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:12
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.8it/s 6.0s
+                   all        548      38759       0.41      0.314      0.279      0.156
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      29/50      3.64G      1.549      1.101     0.9112        377        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.414      0.311      0.279      0.157
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      30/50      4.37G      1.557      1.101     0.9105        361        640: 100% ━━━━━━━━━━━━ 809/809 1.7it/s 7:57
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.6s
+                   all        548      38759      0.402      0.312      0.281      0.156
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      31/50      4.38G      1.549        1.1     0.9109        423        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:13
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.401      0.318      0.283      0.158
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      32/50       5.3G      1.555      1.095     0.9088        761        640: 100% ━━━━━━━━━━━━ 809/809 1.3s/it 17:45
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.6it/s 5.3s
+                   all        548      38759      0.401      0.311      0.282      0.158
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      33/50      3.99G      1.546      1.087     0.9094        815        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.1it/s 5.7s
+                   all        548      38759      0.411      0.314      0.286      0.159
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      34/50      5.35G      1.552      1.085     0.9069        651        640: 100% ━━━━━━━━━━━━ 809/809 5.5it/s 2:28
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759      0.414      0.312      0.283      0.159
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      35/50      3.94G      1.541      1.082     0.9076        562        640: 100% ━━━━━━━━━━━━ 809/809 6.0it/s 2:14
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.5s
+                   all        548      38759      0.401      0.318      0.286       0.16
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      36/50      3.58G       1.53      1.074     0.9074        919        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:08
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.418      0.313      0.287      0.161
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      37/50      5.08G      1.525       1.07     0.9067        359        640: 100% ━━━━━━━━━━━━ 809/809 5.7it/s 2:22
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.417      0.317       0.29      0.164
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      38/50      3.96G      1.521      1.062     0.9045        554        640: 100% ━━━━━━━━━━━━ 809/809 3.4it/s 4:00
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.423      0.322      0.291      0.162
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      39/50      3.56G      1.524      1.063      0.904        689        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.416      0.321      0.291      0.163
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      40/50      3.52G      1.516      1.059     0.9045        736        640: 100% ━━━━━━━━━━━━ 809/809 6.3it/s 2:09
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.3it/s 5.6s
+                   all        548      38759      0.425      0.318      0.293      0.164
+Closing dataloader mosaic
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      41/50      3.94G      1.472      1.029     0.9047        227        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.4it/s 6.5s
+                   all        548      38759      0.416      0.315      0.287      0.161
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      42/50      4.59G      1.459      1.013      0.902        265        640: 100% ━━━━━━━━━━━━ 809/809 5.7it/s 2:23
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.5it/s 6.3s
+                   all        548      38759      0.422      0.317      0.292      0.163
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      43/50      3.16G      1.454       1.01     0.9022        262        640: 100% ━━━━━━━━━━━━ 809/809 6.0it/s 2:14
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.0it/s 5.9s
+                   all        548      38759      0.424      0.321      0.294      0.164
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      44/50      3.17G      1.453      1.008     0.9017        542        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:10
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.8it/s 6.0s
+                   all        548      38759      0.438      0.321      0.297      0.165
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      45/50      4.21G      1.448      0.998     0.9012        363        640: 100% ━━━━━━━━━━━━ 809/809 5.7it/s 2:21
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.5it/s 6.3s
+                   all        548      38759      0.429      0.319      0.293      0.164
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      46/50      3.12G      1.445     0.9924     0.8993        221        640: 100% ━━━━━━━━━━━━ 809/809 6.1it/s 2:12
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.6it/s 6.2s
+                   all        548      38759      0.433       0.32      0.295      0.165
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      47/50      2.55G       1.45     0.9947     0.8978        329        640: 100% ━━━━━━━━━━━━ 809/809 6.2it/s 2:11
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 5.7it/s 6.2s
+                   all        548      38759      0.431       0.32      0.295      0.166
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      48/50      4.19G       1.44     0.9835     0.8972        314        640: 100% ━━━━━━━━━━━━ 809/809 6.0it/s 2:14
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.4it/s 5.5s
+                   all        548      38759      0.438      0.318      0.295      0.166
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      49/50      3.83G      1.445     0.9875     0.8967        260        640: 100% ━━━━━━━━━━━━ 809/809 6.6it/s 2:03
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.2it/s 5.7s
+                   all        548      38759       0.43      0.323      0.296      0.167
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+      50/50      2.87G      1.437     0.9805     0.8973        367        640: 100% ━━━━━━━━━━━━ 809/809 6.6it/s 2:02
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 6.5it/s 5.4s
+                   all        548      38759      0.432      0.324      0.297      0.167
+
+50 epochs completed in 2.508 hours.
+Optimizer stripped from D:\Assessment_VisDrone\yolo_results\train-3\weights\last.pt, 6.2MB
+Optimizer stripped from D:\Assessment_VisDrone\yolo_results\train-3\weights\best.pt, 6.2MB
+
+Validating D:\Assessment_VisDrone\yolo_results\train-3\weights\best.pt...
+Ultralytics 8.4.51  Python-3.10.9 torch-2.6.0+cu124 CUDA:0 (NVIDIA GeForce RTX 3050 Laptop GPU, 4096MiB)
+Model summary (fused): 73 layers, 3,007,598 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 35/35 4.6it/s 7.6s
+                   all        548      38759       0.43      0.323      0.296      0.167
+            pedestrian        520       8844      0.417      0.349      0.303      0.121
+                people        482       5125      0.469      0.231      0.222     0.0757
+               bicycle        364       1287      0.227     0.0963     0.0599     0.0224
+                   car        515      14064      0.585      0.754      0.722      0.471
+                   van        421       1975      0.441      0.359      0.335      0.225
+                 truck        266        750      0.506      0.284      0.286      0.186
+              tricycle        337       1045      0.432      0.225      0.201      0.106
+       awning-tricycle        220        532      0.257      0.148      0.104     0.0639
+                   bus        131        251      0.521       0.43      0.414      0.275
+                 motor        485       4886      0.442      0.356      0.316      0.122
+Speed: 0.2ms preprocess, 2.3ms inference, 0.0ms loss, 5.0ms postprocess per image
+Results saved to D:\Assessment_VisDrone\yolo_results\train-3
+(venv) PS D:\Assessment_VisDrone> & d:/Assessment_VisDrone/venv/Scripts/python.exe d:/Assessment_VisDrone/src/visuals.py
