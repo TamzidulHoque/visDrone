@@ -286,14 +286,14 @@ The model was trained mainly on aerial drone imagery, therefore it generalizes b
 
 # Technologies Used
 
-- Python
-- Ultralytics YOLOv8
-- OpenCV
-- DeepSORT
-- NumPy
-- matplotlib
+    - Python
+    - Ultralytics YOLOv8
+    - OpenCV
+    - DeepSORT
+    - NumPy
+    - matplotlib
 Aditionally:
-- CUDA (GPU use)
+    - CUDA (GPU use)
 
 ---
 
