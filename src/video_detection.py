@@ -6,7 +6,7 @@ from deep_sort_realtime.deepsort_tracker import DeepSort
 # DeepSORT
 # ===================================================================================
 
-video_path = r"E:\A&P\DJI\Basketball match\DJI_0044.MP4"
+video_path = r"samples\input_samples\DJI_0044.MP4"
 output_path = r"tracked_output.mp4"
 model_path = r"yolo_results\train-3\weights\best.pt"
 
@@ -114,7 +114,7 @@ cv2.destroyAllWindows()
 # model = YOLO(r"D:\Assessment_VisDrone\yolo_results\train-3\weights\best.pt")
 
 # results = model.track(
-#     source=r"E:\A&P\DJI\Basketball match\DJI_0044.MP4",
+#     source=r"samples\input_samples\DJI_0044.MP4",
 #     show=True,
 #     tracker="bytetrack.yaml",
 #     # tracker="botsort.yaml",
@@ -128,7 +128,7 @@ cv2.destroyAllWindows()
 # OpenCV Loop Detection
 # ===================================================================================
 
-# video_path = r"E:\A&P\DJI\Basketball match\DJI_0044.MP4"
+# video_path = r"samples\input_samples\DJI_0044.MP4"
 # output_path = r"D:\Assessment_VisDrone\output_video.mp4"
 # model_path = r"D:\Assessment_VisDrone\yolo_results\train-3\weights\best.pt"
 

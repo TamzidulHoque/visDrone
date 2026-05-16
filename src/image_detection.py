@@ -3,7 +3,7 @@ import cv2
 
 model = YOLO("yolo_results\\train-3\\weights\\best.pt")
 
-img_path = r"input_samples\9999946_00000_d_0000032.jpg"
+img_path = r"samples\input_samples\9999946_00000_d_0000032.jpg"
 img = cv2.imread(img_path)
 
 results = model(img)[0]
@@ -31,6 +31,8 @@ cv2.putText(img,
 
 cv2.imwrite("detected_sample.jpg", img)
 
+scale = 0.6
+img = cv2.resize(img, (0, 0), fx=scale, fy=scale)
 cv2.imshow("Result", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
